@@ -1,3 +1,5 @@
 *.mkv
 *.jef
 *.pdf
+*.mkv
+__pycache__

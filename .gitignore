@@ -3,4 +3,5 @@
 *.pdf
 *.mkv
 assets/images
+square7.py
 __pycache__

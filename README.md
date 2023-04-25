@@ -14,7 +14,6 @@ The software reads the RGB channels of each pixel of an image and classifies the
 Rangoli is a beautiful art form from India. I utilized OpenAI's DALL-E to generate Rangoli patterns. For these pictures, I have used "Piyush" as user-defined text.
 
 <p>
- <img src="./assets/combined_7.png">
  <img src="./assets/combined_8.png">
  <img src="./assets/combined_9.png">
 </p>

@@ -3,13 +3,13 @@ PyStitchIt is a Python-based software to generate Janome Embroidery File format 
 
 ## How does it work ?
 
-The software reads the RGB channels of each pixel of an image and classifies them as Red, Green Blue and Yellow or Black. Once the pixel can be classified, the thread paths can be generated.
+The software reads the RGB channels of each pixel of an image and classifies them as Red, Green Blue and Yellow or Black. Once the pixel are be classified, the thread paths can be generated.
 
 ## Features
 1. Supports for 5 thread colors: Red, Yellow, Green, Blue and Black
 2. User defined text
 
-Results
+## Results
 
 Rangoli is a beautiful art form from India. I utilized OpenAI's DALL-E to generate Rangoli patterns. For these pictures, I have used "Piyush" as user-defined text.
 

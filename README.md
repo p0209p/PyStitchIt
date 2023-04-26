@@ -11,7 +11,11 @@ The software reads the RGB channels of each pixel of an image and classifies the
 
 ## Results
 
-Rangoli is a beautiful art form from India. I utilized OpenAI's DALL-E to generate Rangoli patterns. For these pictures, I have used "Piyush" as user-defined text.
+Rangoli is a beautiful art form from India. I utilized OpenAI's DALL-E to generate Rangoli patterns. For these pictures, I have used "Piyush" as user-defined text. 
+
+## Generate thread paths
+
+Run `stitchit.py`. Specify the image filename (with path) and then user specific text. Based on the image and text, a .jef file will be generated. 
 
 <p>
  <img src="./assets/combined_8.png">

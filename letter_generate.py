@@ -63,9 +63,9 @@ def generate_custom_text(text):
     img = Image.new('RGB', (480, 480), "white")
     d = ImageDraw.Draw(img)
     loc = os.getcwd()
-    font = ImageFont.truetype("arial", 100)
+    font = ImageFont.truetype("arial", 100) # "arial" etc ...
     d.text((2, -10), text, fill=(0, 0, 0),font=font)
-    fullpath = os.path.join(loc,'letters\\letter-custom.png')
+    fullpath = os.path.join(loc,'letters/letter-custom.png')
     img.save(fullpath, 'png')
 
     k_points = []
